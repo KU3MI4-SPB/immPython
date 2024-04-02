@@ -1,122 +1,864 @@
 [
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\results.csv",
-        "Type": "File",
-        "Size": 0
+        "parameters": [
+            4,
+            2,
+            4
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\results.json",
-        "Type": "File",
-        "Size": 2
+        "parameters": [
+            1,
+            3,
+            9
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_1.py",
-        "Type": "File",
-        "Size": 472
+        "parameters": [
+            6,
+            5,
+            4
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_10.py",
-        "Type": "File",
-        "Size": 257
+        "parameters": [
+            7,
+            6,
+            10
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_11.py",
-        "Type": "File",
-        "Size": 2435
+        "parameters": [
+            5,
+            4,
+            8
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_12.py",
-        "Type": "File",
-        "Size": 350
+        "parameters": [
+            4,
+            10,
+            9
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_13.py",
-        "Type": "File",
-        "Size": 211
+        "parameters": [
+            5,
+            2,
+            1
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_14.py",
-        "Type": "File",
-        "Size": 156
+        "parameters": [
+            7,
+            2,
+            1
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_15.py",
-        "Type": "File",
-        "Size": 686
+        "parameters": [
+            7,
+            1,
+            7
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_16.py",
-        "Type": "File",
-        "Size": 673
+        "parameters": [
+            3,
+            10,
+            5
+        ],
+        "result": [
+            -0.6125741132772068,
+            -2.720759220056127
+        ]
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_17.py",
-        "Type": "File",
-        "Size": 700
+        "parameters": [
+            9,
+            10,
+            8
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_18.py",
-        "Type": "File",
-        "Size": 1408
+        "parameters": [
+            9,
+            10,
+            4
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_19.py",
-        "Type": "File",
-        "Size": 925
+        "parameters": [
+            4,
+            9,
+            6
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_2.py",
-        "Type": "File",
-        "Size": 342
+        "parameters": [
+            3,
+            5,
+            4
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_20.py",
-        "Type": "File",
-        "Size": 1630
+        "parameters": [
+            8,
+            4,
+            9
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_3.py",
-        "Type": "File",
-        "Size": 243
+        "parameters": [
+            1,
+            6,
+            8
+        ],
+        "result": [
+            -2.0,
+            -4.0
+        ]
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_4.py",
-        "Type": "File",
-        "Size": 349
+        "parameters": [
+            9,
+            2,
+            2
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_5.py",
-        "Type": "File",
-        "Size": 895
+        "parameters": [
+            4,
+            2,
+            10
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_6.py",
-        "Type": "File",
-        "Size": 355
+        "parameters": [
+            5,
+            5,
+            7
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_7.py",
-        "Type": "File",
-        "Size": 1265
+        "parameters": [
+            1,
+            9,
+            10
+        ],
+        "result": [
+            -1.2984378812835757,
+            -7.701562118716424
+        ]
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_8.py",
-        "Type": "File",
-        "Size": 170
+        "parameters": [
+            2,
+            9,
+            5
+        ],
+        "result": [
+            -0.6492189406417879,
+            -3.850781059358212
+        ]
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_9.py",
-        "Type": "File",
-        "Size": 248
+        "parameters": [
+            7,
+            3,
+            3
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\__init__.py",
-        "Type": "File",
-        "Size": 861
+        "parameters": [
+            10,
+            1,
+            9
+        ],
+        "result": null
     },
     {
-        "Path": "D:\\GB\\immPython\\HomeWork\\Task_20",
-        "Type": "Directory",
-        "Size": 0
+        "parameters": [
+            2,
+            9,
+            5
+        ],
+        "result": [
+            -0.6492189406417879,
+            -3.850781059358212
+        ]
+    },
+    {
+        "parameters": [
+            10,
+            2,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            1,
+            9,
+            8
+        ],
+        "result": [
+            -1.0,
+            -8.0
+        ]
+    },
+    {
+        "parameters": [
+            7,
+            7,
+            4
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            4,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            7,
+            3,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            3,
+            6
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            2,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            10,
+            4,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            9,
+            4,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            2,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            10,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            3,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            1,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            10,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            7,
+            7,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            3,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            6,
+            1
+        ],
+        "result": [
+            -0.19098300562505255,
+            -1.3090169943749475
+        ]
+    },
+    {
+        "parameters": [
+            5,
+            1,
+            1
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            8,
+            2,
+            1
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            3,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            1,
+            2,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            4,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            2,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            3,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            2,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            7,
+            4,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            9,
+            9,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            9,
+            7,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            7,
+            8,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            2,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            6,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            2,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            7,
+            6,
+            6
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            1,
+            4
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            8,
+            3
+        ],
+        "result": [
+            -0.45141622964513645,
+            -2.2152504370215302
+        ]
+    },
+    {
+        "parameters": [
+            3,
+            8,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            8,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            9,
+            1
+        ],
+        "result": [
+            -0.1189750324093346,
+            -1.6810249675906654
+        ]
+    },
+    {
+        "parameters": [
+            7,
+            1,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            3,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            9,
+            10,
+            6
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            8,
+            10,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            3,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            7,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            9,
+            4,
+            5
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            1,
+            4,
+            2
+        ],
+        "result": [
+            -0.5857864376269049,
+            -3.414213562373095
+        ]
+    },
+    {
+        "parameters": [
+            10,
+            7,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            10,
+            8,
+            1
+        ],
+        "result": [
+            -0.15505102572168222,
+            -0.6449489742783178
+        ]
+    },
+    {
+        "parameters": [
+            10,
+            2,
+            6
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            8,
+            8,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            4,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            10,
+            5
+        ],
+        "result": -1.0
+    },
+    {
+        "parameters": [
+            4,
+            4,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            10,
+            2,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            8,
+            4,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            8,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            8,
+            3
+        ],
+        "result": [
+            -0.41886116991581024,
+            -3.58113883008419
+        ]
+    },
+    {
+        "parameters": [
+            1,
+            4,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            4,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            3,
+            1,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            1,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            10,
+            6
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            7,
+            3
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            9,
+            9
+        ],
+        "result": [
+            -1.5,
+            -3.0
+        ]
+    },
+    {
+        "parameters": [
+            8,
+            2,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            1,
+            7,
+            5
+        ],
+        "result": [
+            -0.8074175964327481,
+            -6.192582403567252
+        ]
+    },
+    {
+        "parameters": [
+            7,
+            6,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            4,
+            8,
+            8
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            6,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            5,
+            1,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            1,
+            7,
+            7
+        ],
+        "result": [
+            -1.20871215252208,
+            -5.7912878474779195
+        ]
+    },
+    {
+        "parameters": [
+            1,
+            3,
+            2
+        ],
+        "result": [
+            -1.0,
+            -2.0
+        ]
+    },
+    {
+        "parameters": [
+            2,
+            1,
+            2
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            7,
+            10
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            6,
+            7,
+            2
+        ],
+        "result": [
+            -0.5,
+            -0.6666666666666666
+        ]
+    },
+    {
+        "parameters": [
+            2,
+            5,
+            7
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            9,
+            9,
+            1
+        ],
+        "result": [
+            -0.12732200375003502,
+            -0.872677996249965
+        ]
     }
 ]
