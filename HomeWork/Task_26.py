@@ -1,27 +1,37 @@
+import time
 from datetime import datetime
-
 class MyStr(str):
+    """
+    Класс для создания строки с информацией об авторе и времени создания.
+
+    Атрибуты:
+    value (str): строковое значение.
+    author (str): имя автора.
+
+    Dunder методы:
+    __new__(cls, value, author): создает новый объект класса.
+    __str__(): возвращает строковое представление объекта класса.
+    __repr__(): возвращает строковое представление объекта класса для отладки.
+
+    """
+class MyStr(str):
+
     def __new__(cls, value, author):
-        instance = str.__new__(cls, value)
+        instance = super().__new__(cls, value)
         instance.author = author
-        instance.time = datetime.now().strftime('%Y-%m-%d %H:%M')
+        instance.time = time.time()
         return instance
 
     def __str__(self):
-        return f"{super().__str__()} (Автор: {self.author}, Время создания: {self.time})"
+        formatted_time = datetime.fromtimestamp(self.time).strftime('%Y-%m-%d %H:%M')
+        return f"{super().__str__()} (Автор: {self.author}, Время создания: {formatted_time})"
 
     def __repr__(self):
-        return f"MyStr('{self}', '{self.author}')"
+        return f"MyStr('{super().__str__()}', '{self.author}')"
 
-# Пример использования
-# event = MyStr("Завершилось тестирование", "John")
-# print(event)
-#
-# my_string = MyStr("Пример текста", "Иван")
-# print(my_string)
+
+event = MyStr("Завершилось тестирование", "John")
+print(event)
 
 my_string = MyStr("Мама мыла раму", "Маршак")
 print(repr(my_string))
-
-
-
